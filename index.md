@@ -1,3 +1,6 @@
+---
+title: Ram Hariharan
+---
 ![Ram Hariharan](headshot.jpg)
 
 I am a [data science faculty](https://coe.northeastern.edu/people/hariharan-ram/) at Northeastern University and a Senior Scientist at the Experiential AI Institute (EAI).
