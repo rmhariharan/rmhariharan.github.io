@@ -11,7 +11,7 @@ I am working to add more detail to this website and will be adding material more
 
 ## At Northeastern University, Seattle
 
-- Lead data-driven research with MIT faculty in [clinical healthcare](https://pubmed.ncbi.nlm.nih.gov/38665952/) and [vaccine utilization prediction](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.559617/full), published in peer-reviewed venues.
+- Led data-driven research with MIT faculty in [clinical healthcare](https://pubmed.ncbi.nlm.nih.gov/38665952/) and [vaccine utilization prediction](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.559617/full), published in peer-reviewed venues.
 - Built five graduate courses from scratch — Machine Learning, Python, and Generative AI — and teach them across the SEIS program.
 - Mentored 50+ semester-long AI projects, a number of which reached journals and top-tier conferences.
 - Set industry-aligned direction for the Software Engineering and Information Systems (SEIS) program on the Seattle campus.
